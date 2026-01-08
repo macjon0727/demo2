@@ -17,6 +17,8 @@ public class Demo2Application {
         System.out.println("테스트를 위한 오류 코드.");
         System.out.println("이건 맞는 코드임.");
 
+        System.out.println("누가 오늘 신기에서 밥 먹자고 했냐");
+        System.out.println("이 정도 퀄리티에 이 가격이면 다신 안 간다");
     }
 
 }
