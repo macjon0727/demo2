@@ -17,7 +17,10 @@ public class Demo2Application {
         System.out.println("이건 맞는 코드임.");
 
         System.out.println("게시판2를 소개합니다.");
-
+      
+        System.out.println("누가 오늘 신기에서 밥 먹자고 했냐");
+        System.out.println("이 정도 퀄리티에 이 가격이면 다신 안 간다");
+        System.out.println("master왈: 개추 14개 드립니다.")
     }
 
 }
