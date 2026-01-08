@@ -17,6 +17,8 @@ public class Demo2Application {
         System.out.println("테스트를 위한 오류 코드.");
         System.out.println("이건 맞는 코드임.");
 
+        System.out.println("게시판2를 소개합니다.");
+
     }
 
 }
